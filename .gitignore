@@ -1,2 +1,10 @@
 .vscode/
 .DS_Store
+*.o
+*.out
+*.exe
+*.log
+*.pdf
+.DS_Store
+.vscode/
+.idea/
